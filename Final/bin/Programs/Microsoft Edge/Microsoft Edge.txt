@@ -1,0 +1,5 @@
+Microsoft Edge Chromium 83.0.478.61
+أحدث إصدار من متصفح مايكروسوفت المستند إلى كروميوم Chromium يدعم إضافات متصفح غوغل كروم
+Windows 10,8,7, XP
+( x64 x32 )
+Internet
